@@ -1,0 +1,13 @@
+package one;
+
+public class Practise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		for(int a=6;a<=60;a=a+6) {
+			System.out.println(a);
+		}
+
+	}
+
+}

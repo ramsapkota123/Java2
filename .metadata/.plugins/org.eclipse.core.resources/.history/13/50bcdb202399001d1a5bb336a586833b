@@ -1,0 +1,15 @@
+package one;
+
+public class Practse1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		add(5,7);
+		
+
+	}
+	static int add(int x ,int y) {
+		return x+y;
+	}
+
+}

@@ -1,0 +1,32 @@
+package one;
+
+public class Day4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//conditional statement
+		
+		int marks=0;
+		if (marks<=10) {
+			System.out.println("Grade E");
+		
+		}
+		if(10<marks && marks<=20) {
+			System.out.println("D+");
+		}
+		if(20<marks && marks<=30) {
+			System.out.println("D");
+		}
+		if(30<marks && marks<=40) {
+			System.out.println("B+");
+		}
+		if(40<marks && marks<=50) {
+			System.out.println("B");
+			
+		}
+	
+		
+
+	}
+
+}

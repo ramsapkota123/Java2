@@ -1,0 +1,17 @@
+package one;
+
+public class Practse1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int y=add(5,7);
+		System.out.println(y); 
+		
+		
+
+	}
+	static int add(int x ,int y) {
+		return x+y;
+	}
+
+}

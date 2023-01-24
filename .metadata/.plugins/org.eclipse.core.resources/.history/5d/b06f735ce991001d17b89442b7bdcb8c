@@ -1,0 +1,15 @@
+package one;
+
+public class Day2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Define and variable and assign a valu
+		int a =10;
+		System.out.println(a);
+		
+	
+
+	}
+
+}

@@ -1,0 +1,44 @@
+package one;
+
+public class Practise2 {
+
+	public static void main(String[] args) {
+
+		// TODO Auto-generated method stub
+		playRelational();
+		playOperator();
+	}
+
+	static void playRelational() {
+
+		int g = 10;
+		if (g >= 0 && g <= 10) {
+			System.out.println("D grade");
+
+		}
+		if (g > 10 && g <= 20) {
+			System.out.println("c grade");
+		}
+		if (g > 20 && g <= 30) {
+			System.out.println("B grade");
+		}
+		if (g <= 40) {
+			System.out.println("A grade");
+
+		}
+
+	}
+
+	static void playOperator() {
+		int a = 10;
+		if (a != 10) {
+			System.out.println("good");
+
+		}else if(a==10) {
+			System.out.println("excellent");
+		}else {
+			System.out.println("no good");
+		}
+
+	}
+}
